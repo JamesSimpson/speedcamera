@@ -1,7 +1,9 @@
 # Speed Camera Database
-Database of Speed Cameras and Risk Areas around the world
+Database of Speed Cameras and Risk Areas around the world.
+
 
 This is open for anyone to submit to. When obtaining the information, please use:
+
 http://www.latlong.net - To get the location
 
 # Camera Types
